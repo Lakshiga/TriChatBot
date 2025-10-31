@@ -1,0 +1,20 @@
+{
+  "name": "trichat",
+  "version": "1.0.0",
+  "description": "1. [.NET 9 SDK](https://dotnet.microsoft.com/download/dotnet/9.0)\r 2. [Node.js](https://nodejs.org/) (LTS version recommended)\r 3. [Expo CLI](https://docs.expo.dev/get-started/installation/)\r 4. Android Studio or physical Android device for testing",
+  "main": "test_api.js",
+  "scripts": {
+    "test-api": "node test_api.js",
+    "test-api-custom": "node test_api.js",
+    "test-language": "node test_language.js",
+    "test-code": "node test_code_examples.js",
+    "test-comprehensive": "node test_comprehensive.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.4"
+  }
+}
