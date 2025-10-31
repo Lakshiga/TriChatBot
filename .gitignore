@@ -21,3 +21,6 @@ dist/
 build/
 .DS_Store
 Thumbs.db
+
+# Exclude the entire TriChatTutorApp directory
+TriChatTutorApp/
